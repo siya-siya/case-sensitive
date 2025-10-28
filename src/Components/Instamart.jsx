@@ -1,6 +1,6 @@
 // src/pages/Instamart.jsx
 import React, { useState } from "react";
-import ProductCard from "../components/ProductCard";
+import ProductCard from "./ProductCard";
 
 const categories = [
   {
